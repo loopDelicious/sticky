@@ -1,0 +1,22 @@
+{
+  "name": "sticky",
+  "version": "1.0.0",
+  "description": "sticky notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loopDelicious/sticky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loopDelicious/sticky/issues"
+  },
+  "homepage": "https://github.com/loopDelicious/sticky#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

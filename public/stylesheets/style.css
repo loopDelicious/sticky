@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url('/images/cow-skulls.png');
+  color: white;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#app {
+  width: 200px;
+  height: 200px;
+  border: 1px solid white;
+  color: white;
+}
+
+.brand {
+  width: 10px;
+  height: 10px;
+  background-color: deepskyblue;
+}
